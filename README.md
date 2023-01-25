@@ -1,6 +1,6 @@
 # Introduction to GitHub 
 
-## [GitHub Flow] (https://docs.github.com/en/get-started/quickstart/github-flow)
+## [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 ![flow](https://i0.wp.com/build5nines.com/wp-content/uploads/2018/01/GitHub-Flow.png?fit=900%2C310&ssl=1)
 1 - Create a branch (A short, descriptive branch name.)  
 
